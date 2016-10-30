@@ -1,2 +1,2 @@
-# C-Projects
-Here are all of my assignments for C++ at SCCC
+# C-Plus-Plus-Projects
+Here is a sample of my assignments from my C++ class at SCCC.
